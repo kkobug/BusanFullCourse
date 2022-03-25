@@ -1,7 +1,5 @@
 # README
-
-## 👨‍👦‍👦크루원 소개👨‍👧‍👧
-
+!!!
 ### 우리 무슨 팀
 
 👸 강동옥 - *frontend -* [PrincessOk](https://github.com/okdongdong)
@@ -28,7 +26,7 @@
 
 - `release` : jenkins build
 
-- `develop` : 단위기능 개발
+- `develop` : 단위기능 개발!
 
 - `backend` : backend branch
 
